@@ -85,12 +85,12 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/*This selector styles the first and third images in the main contents section, displaying them on the left of each block*/
+/*This selector styles the first and third images in the main contents section*/
 .float-left {
     float: left;
     margin-right: 25px;
 }
-/*This selector styles the second image in the main contents section, displaying it on the right*/
+/*This selector styles the second image in the main contents section*/
 .float-right {
     float: right;
     margin-left: 25px;
@@ -111,12 +111,12 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 }
-/*This selector styles the h3 tags for the child sidebar*/
+/*This selector styles the heading tags for the child benefits in the sidebar*/
 .childbenefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
-/*This selector styles the three images in the child benefits sidebar*/
+/*This selector styles the three images in the child benefits in the sidebar*/
 .childbenefits img {
     display: block;
     margin: 10px auto;
@@ -129,7 +129,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-/*This selector styles the h4 heading in the footer*/
+/*This selector styles the title in the footer*/
 .footer h4 {
     font-size: 20px;
 }
