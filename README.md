@@ -15,4 +15,8 @@ As a marketing agency, we were tasked to refractor Horiseon's website by adding 
 - Added explanatory comments to both the HTML and CSS files
 
 
-## screenshots
+## Screenshots
+
+
+After refractor 
+![image] (./assets/screenshots/after-code-refractor-gemmac-coder-github-io-homework-1.png)
