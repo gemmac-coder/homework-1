@@ -17,6 +17,8 @@ As a marketing agency, we were tasked to refractor Horiseon's website by adding 
 
 ## Screenshots
 
+Before refractor
+![Screenshot showcasing deployed web page before refractor](.assets/screenshots/before-code-refractor-homework-1-screenshot.png)
 
 After refractor 
-![After refractor screenshot](./assets/screenshots/after-code-refractor-gemmac-coder-github-io-homework-1.png)
+![Screenshot showcasing deployed web page after refractor](./assets/screenshots/after-code-refractor-gemmac-coder-github-io-homework-1.png)
