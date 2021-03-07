@@ -1,7 +1,7 @@
 # Horiseon Project
 
 ## Project Link
-Click [here] <https://gemmac-coder.github.io/homework-1/> to view the project link on Github pages.
+Click [here](https://gemmac-coder.github.io/homework-1/) to view the project link on Github pages.
  
 ## Description 
 As a marketing agency, we were tasked to refractor Horiseon's website by adding semantic HTML and making the website more accessible. 
