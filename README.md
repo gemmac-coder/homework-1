@@ -19,4 +19,4 @@ As a marketing agency, we were tasked to refractor Horiseon's website by adding 
 
 
 After refractor 
-![image] (./assets/screenshots/after-code-refractor-gemmac-coder-github-io-homework-1.png)
+![After refractor screenshot](./assets/screenshots/after-code-refractor-gemmac-coder-github-io-homework-1.png)
